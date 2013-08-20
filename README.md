@@ -18,7 +18,9 @@ Many people have thought and written about open access models. Thus the purpose 
 - Lathrop, R.H., Rost, B., ISCB Membership, ISCB Executive Committee, ISCB Board of Directors & ISCB Public Affairs Committee. (2011) ISCB Public Policy Statement on Open Access to Scientific and Technical Research Literature. PLoS Comput Biol, 7, e1002014.[DOI: 10.1371/journal.pcbi.1002014](http://doi.org/10.1371/journal.pcbi.1002014)
 - Piwowar, H.A., Day, R.S. & Fridsma, D.B. (2007) Sharing Detailed Research Data Is Associated with Increased Citation Rate. PLoS ONE, 2, e308. [DOI: 10.1371/journal.pone.0000308](http://doi.org/10.1371/journal.pone.0000308)
 - Piwowar, H.A., Vision, T.J. & Whitlock, M.C. (2011) Data archiving is a good investment. Nature, 473, 285–285.[DOI: 10.1038/473285a](http://doi.org/10.1038/473285a)
-
+- Piwowar, H.A., & Vision, T.J. (2013) Data reuse and the open data citation advantage. PeerJ PrePrints 1:e1v1 http://dx.doi.org/10.7287/peerj.preprints.1v1
+- Open Knowledge Foundation (2012) Open Data Handbook. http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
+ 
 # Key reasons why we should support a fully open model of data sharing in ecology
 
 ## Accelerating science
