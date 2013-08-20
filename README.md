@@ -1,13 +1,15 @@
 CaseForOpenTraitData
 ====================
 
-In the first week of September, contributors to the [TRY trait database](http://www.try-db.org/TryWeb/) are meeting to discuss the future of TRY. Currently, TRY includes over 3 million trait records for about 69000 plant species, with contributions from 372 participants from 179 scientific institutes worldwide. This collaborative effort is a fantastic achievement that can rightly be celebrated. At the same time, many people both within and outside the TRY community have concerns about the model of data sharing currently adopted by TRY. One of the issues slated for discussion at the September method is whether TRY should move to a more open access model of data distribution.
+In the first week of September, members of the [TRY trait database](http://www.try-db.org/TryWeb/) consortium are meeting to discuss the future of TRY. Currently, TRY includes over 3 million trait records for about 69000 plant species, with contributions from 372 participants from 179 scientific institutes worldwide. This collaborative effort is a fantastic achievement that can rightly be celebrated. At the same time, many people both within and outside the TRY group believe the model of data sharing currently adopted by TRY is unnecessarily restrictive, and even detrimental to TRY's mission of moving forward with important research questions.
 
-The purpose of this document is to outline the potential benefits of moving to a fully open access model of data sharing within ecology, and share ideas on how this could be achieved. We understand that such a shift might pose significant infrastructural and political challenges. Yet, we strongly believe that an open model is in the public's best interests and would vastly increase the ability of trait-based research to solve key questions in ecology, evolution and conservation. Thus, while recognising the great things TRY has achieved, we encourage the members of TRY to take the next step, by moving towards an open model of data contribution and usage. We are certain any challenges that arise in moving to an open model could be overcome, if the community were to agree on the vision of an open model.
+One of the issues slated for discussion at the September meeting is whether TRY should move to a more open access model of data distribution.
 
-Contributions to this document are welcome, but should be constructive, recognising all the positive energy and effort that has gone into creating TRY, while also providing a vision for what it might be. The aim is to make a persuasive case for open trait data. Even if the organisers of TRY decide not to move towards an open access model, this document may help inspire others to take on that challenge.
+The purpose of this document is to outline the potential benefits of moving to a fully open access model of data sharing within ecology, and share ideas on how this could be achieved. We understand that such a shift might pose significant infrastructural and political challenges. Yet, we strongly believe that an open model is in the public's best interests and would vastly increase the ability of trait-based research to solve key questions in ecology, evolution and conservation. Thus, while recognising the great things TRY has achieved, we encourage the members of TRY to take the next step, by moving towards an open model of data contribution and usage. We are certain any challenges that arise in moving to an open model could be overcome, if only the community were to embrace the vision of an open-access model.
 
-Many people have thought and written about open access models. Thus the purpose of this document is simply to summarise the different arguments and point to relevant literature.
+Contributions to this document are welcome, but should be constructive, recognising all the positive energy and effort that has gone into creating TRY, while also providing a vision for what it might be. The aim is to make a persuasive case for open trait data. Even if the organisers of TRY decide not to move towards an open access model, this document may help inspire others to take on the general challenges raised in plant ecology and across science.
+
+Many people have thought and written about open access models. Thus the purpose of this document is simply to summarise the different arguments and point to relevant literature for the upcoming discussion at hand.
 
 # Key references:
 
@@ -20,7 +22,9 @@ Many people have thought and written about open access models. Thus the purpose 
 - Piwowar, H.A., Vision, T.J. & Whitlock, M.C. (2011) Data archiving is a good investment. Nature, 473, 285–285.[DOI: 10.1038/473285a](http://doi.org/10.1038/473285a)
 - Piwowar, H.A., & Vision, T.J. (2013) Data reuse and the open data citation advantage. PeerJ PrePrints 1:e1v1 http://dx.doi.org/10.7287/peerj.preprints.1v1
 - Open Knowledge Foundation (2012) Open Data Handbook. http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
- 
+- Van Noorden, R. (2013) Data-sharing: Everything on display. Nature, 500, 243–245. [DOI: 10.1038/nj7461-243a](http://doi.org/10.1038/nj7461-243a)
+- Kueffer, C., Niinemets, U., Drenovsky, R.E., Kattge, J., Milberg, P., Poorter, H., Reich, P.B., Werner, C., Westoby, M. & Wright, I.J. (2011) Fame, glory and neglect in meta-analyses. Trends in Ecology and Evolution, 26, 493–494. [DOI: 10.1016/j.tree.2011.07.007](http://doi.org/10.1016/j.tree.2011.07.007)
+
 # Key reasons why we should support a fully open model of data sharing in ecology
 
 ## Accelerating science
@@ -69,14 +73,14 @@ In addition, ecologists benefit from a wide range of open tools
 
 All of these resources are provided free and allow scientists to achieve far more than might otherwise be possible. Ecological data has same potential.  It remains unclear why trait data should be considered
 
-### Closed access models have corrosive effect on field
+### Tragedy of the commons
 In early 2000's many trait datasets were provided in appendices to papers. Examples
 
 - [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)
 
-This type of activity is discouraged under the current model of data sharing in TRY. If people perceive a perceived benefit of keeping data closed (in form of co-authorship on papers), they may be less likely to share data.
+This type of activity is discouraged under the current model of data sharing in TRY. If people perceive a perceived benefit of keeping data closed (in the hope of future co-authorship on papers), they may be less likely to share data.
 
-Moreover, closed data models, where co-authorship is offered to data contributors, increase the competitiveness in field, and drive towards high publication number. This is something almost all ecologists dislike, yet many are actively making the situation worse.
+Moreover, closed data models, where co-authorship is offered to data contributors, increase the competitiveness in field and thus the relentless drive towards higher publication number in recruitment processes. This is something almost all ecologists dislike, yet many are actively making the situation worse.
 
 # Common concerns about open access models
 
@@ -86,14 +90,12 @@ Examples to counter this
 
 - Amy Zanne's wood density database most downloaded resource on datadryad. has had very positive effects on her career.
 
-## that data was hard to collect
+## That data was hard to collect and I don't want to give it away
 
 yes, but a lot of data is lost due to changing technology.
 
-## Need to protect poor phd students
+## We need to protect the vulnerable PhD students
 
-
-# Which license to use
 
 
 
@@ -116,3 +118,12 @@ Requires substantial and reliable ongoing institutional support.
 Ecodataretriever
 
 Places to publish data: figshare, dryad.
+
+# Advice of which licenses to use when releasing
+
+
+
+# Ways to encourage openness within the field
+
+
+
