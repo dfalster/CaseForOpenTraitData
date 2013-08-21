@@ -50,7 +50,7 @@ Trait ecologists routinely use a whole suite of open data resources, including g
 
 Funding agencies have also recognised the value of making data open, so increasingly are requiring data collected with public money to be made publicly available.
 
-For our part, the contributors to this article has provided a wide range of open source tools, including trait data ([Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages ().
+For our part, the contributors to this article has provided a wide range of open source tools, including trait data (e.g. [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages used in 100's of publications.
 
 By making trait data free to download directly, TRY could greatly increase usage of its data and thus help accelerate scientific discovery.
 
@@ -121,6 +121,6 @@ Here are some suggestions:
 - Make your own data and code fully open.
 - Only work with open datasets.
 - Lobby for open data.
-- Lobby for proper recognition of data reuse via citation pathways, e.g. by including references in the main paper or via indexing of supplemnetary materials.
+- Lobby for proper recognition of data reuse via citation pathways, e.g. by including references in the main paper or via indexing of supplementary materials.
 - Recognise open data contributions during recruitment, grant and paper evaluation.
 - Enforce guidelines on data archiving where they exist.
