@@ -46,11 +46,11 @@ Many people have already thought and written about the benefits of open access m
 
 We are all united by a joint goal to discover key facts about the natural world and address the challenges posed by environmental change and human impact. As Michael Nielsen argues in this great TED talk : [Open science now!](http://bit.ly/18QNFEv),  we can accelerate scientific discovery through open exchange of data, code, and ideas.  As Michael explains, when a field becomes more open, it can move forward very quickly. There is also evidence to suggest that the research impact of papers with open data is considerably higher, e.g. the [global wood density database](http://hdl.handle.net/10255/dryad.235), published as an open access dataset on datadryad, has now been downloaded over 5700 times.
 
-Trait ecologists routinely use a whole suite of open data resources, including genetic sequence data, climate data, soils data, species distribution data,  phylogenetic trees, forest inventory data, taxonomic information and remote sensing information. In addition, ecologists benefit from a wide range of open tools such as statistical packages, especially via the statistical package R.All of these resources are provided without obligation and allow trait ecologists to achieve far more than might otherwise be possible. Ecological data has the same potential.
+Trait ecologists routinely use a whole suite of open data resources, including genetic sequence data, climate data, soils data, species distribution data,  phylogenetic trees, forest inventory data, taxonomic information and remote sensing information. In addition, ecologists benefit from a wide range of open tools such as statistical packages, especially via the statistical package R. All of these resources are provided for free, with the only request being citation in publications. These resources allow trait ecologists to achieve far more than might otherwise be possible. Trait data has the same potential.
 
-Funding agencies have also recognised the value of making data open, so increasingly are requiring data collected with public money to be made publicly available.
+Funding agencies have also recognised the value of making data open, so increasingly they are requiring data collected with public money to be made publicly available.
 
-For our part, the contributors to this article has provided a wide range of open source tools, including trait data (e.g. [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages used in 100's of publications.
+For our part, the contributors to this article have provided a wide range of open source tools, including trait data (e.g. [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages used in 100's of publications.
 
 By making trait data free to download directly, TRY could greatly increase usage of its data and thus help accelerate scientific discovery.
 
@@ -58,11 +58,11 @@ For more info see: [Piwowar et al 2011][Piwowar et al 2011], [Poisot et al 2013]
 
 ## Transparency and reproducibility
 
-At the same time, there is  a move towards making journal publications more reproducible and transparent. From the perspective of reproducible science, the ideal paper would include as supplementary material, all the data and code used in the analyses, so that reviewers and readers can reproduce the results of a a paper and evaluate the evidence for themselves. High profile journals such as Nature [now require data to be made availablee](http://www.nature.com/authors/policies/availability.html), as do a wide range of top-rating journals in evolutionary biology ([Whitlock et al 2010][Whitlock et al 2010]).
+At the same time, there is  a move towards making journal publications more reproducible and transparent. From the perspective of reproducible science, the ideal paper would include as supplementary material, all the data and code used in the analyses, so that reviewers and readers can reproduce the results of a a paper and evaluate the evidence for themselves. High profile journals such as Nature [now require data to be made available](http://www.nature.com/authors/policies/availability.html), as do a wide range of top-rating journals in evolutionary biology ([Whitlock et al 2010][Whitlock et al 2010]).
 
 By making trait data free to download directly, TRY could enable trait ecologists to lift the quality of their science and meet the demands of high impact journals.
 
-For more info see: [Poisot et al 2013][Poisot et al 2013], [Lanthrop et al 2011][Lanthrop et al 2011], [Costello et al 2013][Costello et al 2013].
+For more information see: [Poisot et al 2013][Poisot et al 2013], [Lanthrop et al 2011][Lanthrop et al 2011], [Costello et al 2013][Costello et al 2013].
 
 ## The moral arguments
 
@@ -72,11 +72,11 @@ As research scientists, most of us are funded by public money. Thus our data is 
 
 By making trait data free to download directly, TRY can help honour the social contract scientists have with the public to generate knowledge and solve the problems facing society.
 
-For more info see: [Piwowar et al 2011][Piwowar et al 2011], [Poisot et al 2013][Poisot et al 2013]
+For more information see: [Piwowar et al 2011][Piwowar et al 2011], [Poisot et al 2013][Poisot et al 2013]
 
 ### Built on the generosity of others
 
-Some of the trait data in TRY has been compiled from the literature, using data that was made freely available by the original collectors. Honouring the good will of the original data collectors, such compilations should also be made public with the relevant publications. We are confident that many people would continue to contribute to open databases, where it was evident that it such contributions would be honoured by equivalent levels of openness.
+Some of the trait data in TRY has been compiled from the literature, using data that was made freely available by the original collectors. Honouring the good will of the original data collectors, such compilations should also be made public with the relevant publications. We are confident that many people would continue to contribute to open databases, where it was evident that such contributions would be honoured by an equivalent levels of openness.
 
 An analogous situation exists in the world of open source software.The GNU public license offers free use of a very wide range of computer source code, provided derived products are also made open source.
 
@@ -88,27 +88,27 @@ We agree! It is just a question of how that credit is given. Under an open model
 
 No one is suggesting that data collectors share their data before they have written the primary publications for which the data were collected. However, for reasons outlined in the previous section, we believe such data should then become publicly available and free to use by other investigators.
 
-Any subsequent usage of data should of course be recognised through proper citation of the original data providers. This is also how other open source materials trait ecologists benefit from (see section above) are recognised. By increasing one's H-index, citations provide a good measure on the impact of one's work. There is also evidence to show that papers with open data have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]).
+Any subsequent usage of data should of course be recognised through proper citation of the original data providers. This is also how other open source materials trait ecologists benefit from (see section above) are recognised. By increasing one's H-index, citations provide a good measure of the impact of one's work. There is also evidence to show that papers with open data have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]).
 
 There is considerable debate regarding the criteria warranting co-authorship on scientific papers (e.g. [Poisot et al 2013][Poisot et al 2013]). Existing norms such as the [Vancouver protocol](http://www.research.mq.edu.au/about/research_@_macquarie/policies,_procedures_and_conduct/documents/Vancouver.pdf) state that provision of data alone in insufficient, yet this is not enforced within the field of ecology. Many people believe co-authorship on derived works is warranted. While recognising the good intentions of such efforts, it is worth noting that such approaches work against those willing to make their data open, by increasing the publication list of their peers.
 
-There are also challenges of properly citing data contributions, which are often listed in supplementary material and thus not recognised via citation engines ([Kueffer et al 2011][Kueffer et al 2011]). However, this is a problem of open science, because the most research currently served by TRY also suffers the same problem. Moreover, those articles which are cited are usually the data compilations, rather than the original data sources.
+There are also challenges of properly citing data contributions, which are often listed in supplementary material and thus not recognised via citation engines ([Kueffer et al 2011][Kueffer et al 2011]). However, this is a problem of open science, because most research currently served by TRY also suffers the same problem. Moreover, those articles which are cited are usually the data compilations, rather than the original data sources.
 
-To overcome these issues, we have supported recent efforts to cite data provision properly, e.g. by making  [supplementary material indexed](https://docs.google.com/document/d/1gDyB32IDZQtk3VvT-CjUAUBmb6ycLsWijasQDht36Ko/edit?pli=1) and suggest any move towards an open source data model also work towards resolving these issues.
+To overcome these issues, we have supported recent efforts to cite data usage properly, e.g. by making  [supplementary material indexed](https://docs.google.com/document/d/1gDyB32IDZQtk3VvT-CjUAUBmb6ycLsWijasQDht36Ko/edit?pli=1) and suggest any move towards an open source data model also work towards resolving these issues.
 
 ## Openness is bad for my career
 
-Some people have expressed concern at 'giving away data', but available evidence suggests advantages to being open. For example, in this recent [commentary in Nature](http://doi.org/10.1038/nj7461-243a), Amy Zanne said that making the global wood density database public has had very positive effects on her career. Articles with public data are also have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]). [Costello et al 2013][Costello et al 2013] suggest data contributors have a lot to gain by making citable products with their data.
+Some people have expressed concern at 'giving away data', but available evidence suggests advantages to being open. For example, in this recent [commentary in Nature](http://doi.org/10.1038/nj7461-243a), Amy Zanne said that making the global wood density database public has had very positive effects on her career. Articles with public data also have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]). [Costello et al 2013][Costello et al 2013] suggest data contributors have a lot to gain by making citable products with their data.
 
-There are now many ways in which you can make data readily available and citable - see [White et al. preprint][White et al. preprint] and [Poisot et al 2013][Poisot et al 2013] for more information.
+There are now many ways in which you can make data readily available and citable - see [White et al. preprint][White et al. preprint] and [Poisot et al 2013][Poisot et al 2013] for a list of options.
 
-## That data was hard to collect and I don't want to give it away
+## That data were hard to collect and I don't want to give it away
 
-Collecting data is hard, but so is everything else in science, such as writing software. The harder data is to collect, the more value it has to science, and the more it should be made available to other researchers, once our original papers have been published. I personally want any data I collect to have a continuing impact on the field.
+Collecting data is hard, but so is everything else in science, such as writing software. I want any data I collect to have a continuing impact on the field and be safe from technological change and accidental loss.
 
 ## We need to protect the vulnerable PhD students
 
-As a basic principle, we could probably all agree that PhD students collecting substantial amounts of new data should not be asked to share this until they have published their main results. Supporting this, many journals and funding agencies requiring data time of publication offer an embargo period before data becomes public, if submitted at the time of publication.
+As a basic principle, we could probably all agree that PhD students collecting substantial amounts of new data should not be asked to share this until they have published their main results. Supporting this, many journals and funding agencies requiring data give the option at time of publication of an embargo period before data becomes public.
 
 Under any open model, it is up to individuals to contribute data when they feel ready.
 
