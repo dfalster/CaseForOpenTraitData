@@ -98,13 +98,13 @@ To overcome these issues, we have supported recent efforts to cite data provisio
 
 ## Openness is bad for my career
 
-Some people have expressed concern at 'giving away data', but available evidence suggests advantages to being open. For example, in this recent [commentary in Nature](http://doi.org/10.1038/nj7461-243a), Amy Zanne said that making the global wood density database public has had very positive effects on her career. Articles with public data are also have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]). [Costello et al 2013][Costello et al 2013] suggest data contributors
+Some people have expressed concern at 'giving away data', but available evidence suggests advantages to being open. For example, in this recent [commentary in Nature](http://doi.org/10.1038/nj7461-243a), Amy Zanne said that making the global wood density database public has had very positive effects on her career. Articles with public data are also have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]). [Costello et al 2013][Costello et al 2013] suggest data contributors have a lot to gain by making citable products with their data.
 
 There are now many ways in which you can make data readily available and citable - see [White et al. preprint][White et al. preprint] and [Poisot et al 2013][Poisot et al 2013] for more information.
 
 ## That data was hard to collect and I don't want to give it away
 
-True. But everything in science is hard. Collecting data, generating theory, writing software. The harder data is to collect, the more value it has to science, and the more it should be made available to other researchers, once our original papers have been published. I personally want any data I collect to have a continuing impact on the field.
+Collecting data is hard, but so is everything else in science, such as writing software. The harder data is to collect, the more value it has to science, and the more it should be made available to other researchers, once our original papers have been published. I personally want any data I collect to have a continuing impact on the field.
 
 ## We need to protect the vulnerable PhD students
 
