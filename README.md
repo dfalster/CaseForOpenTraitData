@@ -96,17 +96,17 @@ No one is suggesting that data collectors share their data before they have writ
 
 Any subsequent usage of data should of course be recognised through proper citation of the original data providers. This is also how other open source materials trait ecologists benefit from (see section above) are recognised. By increasing one's H-index, citations provide a good measure of the impact of one's work. There is also evidence to show that papers with open data have a citation advantage ([Piwowar et al 2007][Piwowar et al 2007], [Piwowar et al 2013][Piwowar et al 2013]).
 
-There is considerable debate regarding the criteria warranting co-authorship on scientific papers (e.g. [Poisot et al 2013][Poisot et al 2013],[Duke & Poorter 2013][Duke & Poorter 2013]). Existing guidelines such as the [Vancouver protocol](http://www.research.mq.edu.au/about/research_@_macquarie/policies,_procedures_and_conduct/documents/Vancouver.pdf) state that provision of data alone in insufficient, yet this has not been established as a norm within the field of ecology.
+There is considerable debate regarding the criteria warranting co-authorship on scientific papers (e.g. [Poisot et al 2013][Poisot et al 2013], [Duke & Poorter 2013][Duke & Poorter 2013]). Existing guidelines such as the [Vancouver protocol](http://www.research.mq.edu.au/about/research_@_macquarie/policies,_procedures_and_conduct/documents/Vancouver.pdf) state that provision of data alone in insufficient, yet this has not been established as a norm within the field of ecology.
 
 In the case of TRY, we are mainly talking about the reuse of data which has already been published elsewhere. Many people believe co-authorship on derived works is still warranted. While recognising the good intentions of those looking to honour primary data collectors, it is worth noting that such efforts work against those of us who make their data open, by increasing the publication lists of our peers.
 
-There are also challenges of properly citing open-access data, which are often listed in supplementary material and thus not recognised via citation engines ([Kueffer et al 2011][Kueffer et al 2011]). However, this is a general problem of problem not restricted to the open access model. Moreover, those articles which are cited are often the data compilations, rather than the original data sources.
+There are also challenges of properly citing open-access data, which are often listed in supplementary material and thus not recognised via citation engines ([Kueffer et al 2011][Kueffer et al 2011]). However, this is a general problem not restricted to the open access model. Moreover, those articles which are cited are often the data compilations, rather than the original data sources.
 
 To overcome these issues, I suggest any move towards an open source data model also support efforts to encourage proper citation of papers providing data, e.g. by making  [supplementary material indexed](https://docs.google.com/document/d/1gDyB32IDZQtk3VvT-CjUAUBmb6ycLsWijasQDht36Ko/edit?pli=1).
 
 ## The data will stop flowing under an open data model
 
-I find this hard to believe, given the new requirements of journals and funding agencies for data archiving. I also believe that most people are happy to contribute to a greater good. That is why many of us make our data immediately available at the time of publication. I am confident that most people would happily  contribute to open database, where it was evident that such contributions would be honoured by an equivalent levels of openness elsewhere.
+I find this hard to believe, given the new requirements of journals and funding agencies for data archiving. I also believe that most people are happy to contribute to a greater good. That is why many of us make our data immediately available at the time of publication. I am confident that most people would happily contribute to an open database, where it was evident that such contributions would be honoured by equivalent levels of openness elsewhere.
 
 ## Openness is bad for my career
 
@@ -120,19 +120,18 @@ Collecting data is hard, but so is everything else in science, such as writing s
 
 ## We need to protect the vulnerable PhD students
 
-As a basic principle, we could probably all agree that PhD students collecting substantial amounts of new data should not be asked to share this until they have published their main results. Supporting this, many journals and funding agencies requiring data be archived at time of publication also give the option of an embargo period before data becomes public.
+As a basic principle, we could probably all agree that PhD students collecting substantial amounts of new data should not be asked to share this until they have published their main results. Supporting this, many journals and funding agencies requiring data archiving at the time of publication also give the option of an embargo period before data becomes public.
 
 Under any open model, TRY could leave it up to individuals to contribute data when they feel ready.
 
 # Best practises for sharing data
 
-There are a number of things that will make your data easier to reuse, such as :
+There are a number of things that will make your data easier to reuse, such as:
 
-- Deposited on stable server, e.g datadryad, figshare, ecological archives, so that it remains available and is citable.
-- Is released under a standard and flexible license agreement.
-- Has good meta data.
-- Is stored in non proprietary, text-based format - e.g. text csv files.
-- Is machine readable.
+- Depositing it on stable server, e.g datadryad, figshare, ecological archives, so that it remains available and is citable.
+- Releasing it under a standard and flexible license agreement.
+- Having good (ideally machine readable) metadata.
+- Storing it in non proprietary, text-based format - e.g. text csv files.
 
 The following resources provide more information on best practices for data management, reuse and sharing:
 
@@ -145,7 +144,7 @@ The following resources provide more information on best practices for data mana
 
 In his TED talk, Michael Nielson asks "What are you doing to promote openness within your field?".
 
-For my part, I have provided a number of open source resources. This includes trait data (e.g. [Falster et al 2003](http://dx.doi.org/10.1046/j.1469-8137.2003.00765.x), [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages like [smatr](http://bio.mq.edu.au/research/groups/ecology//SMATR/), which is now used in 100's of publications. I am also currently collating a large biomass and allometry dataset that will be  made open access in the form of a data paper, where all data contributors are included as co-authors. One published, anyone will be able to use this data in whatever way they like.
+For my part, I have provided a number of open source resources. This includes trait data (e.g. [Falster et al 2003](http://dx.doi.org/10.1046/j.1469-8137.2003.00765.x), [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages like [smatr](http://bio.mq.edu.au/research/groups/ecology//SMATR/), which is now used in 100's of publications. I am also currently collating a large biomass and allometry dataset that will be  made open access in the form of a data paper, where all data contributors are included as co-authors. Once published, anyone will be able to use this data in whatever way they like.
 
 Here are some suggestions you might consider either within or outside the TRY framework:
 
