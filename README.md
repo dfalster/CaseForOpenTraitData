@@ -1,3 +1,5 @@
+This material will be posted on [my blog](http://dfalster.github.io/).
+
 The Case For A Fully Open Source Trait Database
 ====================
 
