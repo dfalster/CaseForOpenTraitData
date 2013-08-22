@@ -15,7 +15,7 @@ Before proceeding I would like to recognise all the positive energy, good will a
 # Some key references
 Many people have already written about the benefits of open access models. Below I simply aim to summarise some of the arguments already presented  and point to relevant literature.
 
-- White, E.P. & et al. Nine simple ways to make it easier to (re)use your data. PeerJ PrePrints, 1, e7v2. [DOI: 10.7287/peerj.preprints.7v2][White et al. preprint]
+- White, E.P. et al. Nine simple ways to make it easier to (re)use your data. PeerJ PrePrints, 1, e7v2. [DOI: 10.7287/peerj.preprints.7v2][White et al. preprint]
 - Poisot, T., Mounce, R. & Gravel, D. (2013) Moving toward a sustainable ecological science: don’t let data go to waste! [DOI: 10.6084/m9.figshare.693745][Poisot et al 2013]
 - Costello, M.J., Michener, W.K., Gahegan, M., Zhang, Z.-Q. & Bourne, P.E. (2013) Biodiversity data should be published, cited, and peer reviewed. Trends in Ecology & Evolution, 28, 454–461. [DOI: 10.1016/j.tree.2013.05.002][Costello et al 2013]
 - Duke, C.H. & Poorter, J.H. (2013) The Ethics of Data Sharing and Reuse in Biology. BioScience, 63, 483–489. [DOI: 10.1525/bio.2013.63.6.10][Duke & Poorter 2013]
@@ -49,11 +49,12 @@ We are all united by a joint goal to discover key facts about the natural world 
 
 Much of the scientific community is embracing this vision, with an avalanche of extraordinary resources now available under open data access models. Examples include genetic sequence data, climate data, soils data, species distribution data,  phylogenetic trees, forest inventory data, taxonomic information and remote sensing information. In addition, ecologists benefit from a wide range of open tools such as statistical packages, especially via the statistical package R. All of these resources are provided for free, with the only request being citation in publications. These resources allow trait ecologists to achieve far more than might otherwise be possible in their research. Further opening trait databases would have the same effect.
 
-Funding agencies such as NERC, the ARC, and NSF, have also recognised the value of making data open, so increasingly they are requiring data collected with public money to be made publicly available.
+Funding agencies such as NERC, the ARC, and NSF, have also recognised the value of making data open, so increasingly they are requiring data collected with public money to be made publicly available. Specific organisations such as TERN and the Data Observation Network for Earth ([DataONE](http://www.dataone.org/)) have been specifically created to help provide access to open data. For example, the mission of DataOne is to
+	"Enable new science and knowledge creation through universal access to data about life on earth and the environment that sustains it."
 
 By making trait data free to download directly, TRY could greatly increase usage of its data and thus help accelerate scientific discovery.
 
-For more info see: [Piwowar et al 2011][Piwowar et al 2011], [Poisot et al 2013][Poisot et al 2013].
+For more info see: [Piwowar et al 2011][Piwowar et al 2011], [Poisot et al 2013][Poisot et al 2013], [The Open Data Handbook][Open Knowledge Foundation 2012].
 
 ## Transparency and reproducibility
 
@@ -121,22 +122,45 @@ As a basic principle, we could probably all agree that PhD students collecting s
 
 Under any open model, TRY could leave it up to individuals to contribute data when they feel ready.
 
+# Best practises for sharing data
+
+There are a number of things that will make your data easier to reuse, such as :
+
+- Deposited on stable server, e.g datadryad, figshare, ecological archives, so that it remains available and is citable.
+- Is released under a standard and flexible license agreement.
+- Has good meta data.
+- Is stored in non proprietary, text-based format - e.g. text csv files.
+- Is machine readable.
+
+The following resources provide more information on best practices for data management, reuse and sharing:
+
+- White et al. Nine simple ways to make it easier to (re)use your data. PeerJ PrePrints, 1, e7v2. [DOI: 10.7287/peerj.preprints.7v2][White et al. preprint]
+- Data One [best practises](http://www.dataone.org/all-best-practices) and educational material on [data management](http://www.dataone.org/education-modules).
+- Guides to writing good metadata by [Michener et al 1997](http://www.esajournals.org/doi/abs/10.1890/1051-0761%281997%29007%5B0330:NMFTES%5D2.0.CO%3B2)
+- The Open Data Handbook. [Open Knowledge Foundation 2012][Open Knowledge Foundation 2012].
+
 # Ways to encourage openness within the field
 
 In his TED talk, Michael Nielson asks "What are you doing to promote openness within your field?".
 
 For my part, I have provided a number of open source resources. This includes trait data (e.g. [Falster et al 2003](http://dx.doi.org/10.1046/j.1469-8137.2003.00765.x), [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages like [smatr](http://bio.mq.edu.au/research/groups/ecology//SMATR/), which is now used in 100's of publications. I am also currently collating a large biomass and allometry dataset that will be  made open access in the form of a data paper, where all data contributors are included as co-authors. One published, anyone will be able to use this data in whatever way they like.
 
-Here are some suggestions you might consider:
+Here are some suggestions you might consider either within or outside the TRY framework:
 
-- Make your own data and code fully open. There are now many ways in which you can make data readily available and citable - see [White et al. preprint][White et al. preprint] and [Poisot et al 2013][Poisot et al 2013] for a list of options.
+- Make your own data fully open. There are now many ways in which you can make data readily available and citable - see [White et al. preprint][White et al. preprint] and [Poisot et al 2013][Poisot et al 2013] for a list of options.
 - Only work with open datasets.
 - Lobby for open data.
 - Lobby for proper recognition of data reuse via citation pathways, e.g. by including references in the main paper or via indexing of supplementary materials.
 - Recognise open data contributions during recruitment, grant and paper evaluation.
 - Enforce guidelines on data archiving where they exist.
 
-I hope this post has helped convince you that an open trait database is both beneficial and achievable.
-
+I hope this post has helped convince you that an open trait database is both desirable and achievable.
 
 # Acknowledgements
+Although not all of these people necessarily agree with sentiments expressed in this post, I would like to thank the following people for helpful discussions: Rich FitzJohn, Ethan White, Mark Westoby, Amy Zanne, Colin Prentice, Will Cornwell.
+
+# Do you agree?
+
+If you agree with the sentiments expressed in this post, feel contact me to add your name to the list below. Conversely, if you disagree with the sentiments expressed in this post, feel free to post your thoughts elsewhere online and send me a link to your post. In the interest of providing healthy discussion, I will add a link to your post below.
+
+You can contact me via [twitter](https://twitter.com/adaptive_plant), [email](mailto:daniel.falster@mq.edu.au?subject=Open trait data) or by adding an issue to this [github repo](https://github.com/dfalster/CaseForOpenTraitData/issues).
