@@ -3,6 +3,7 @@ This material below was developed here on github, but is now posted on my blog: 
 The Case For A Fully Open Source Trait Database
 ====================
 
+
 In the first week of September 2013, members of the [TRY trait database](http://www.try-db.org/TryWeb/) consortium are meeting to discuss the future of TRY, including whether TRY should revise their model of data sharing.  <!-- more -->
 
 TRY is a community initiative aiming to
@@ -132,18 +133,10 @@ Under any open model, TRY could leave it up to individuals to contribute data wh
 
 There are a number of things that will make your data easier to reuse, such as:
 
-<<<<<<< HEAD
 - Depositing it on stable server, e.g datadryad, figshare, ecological archives, so that it remains available and is citable.
 - Releasing it under a standard and flexible license agreement.
 - Having good (ideally machine readable) metadata.
 - Storing it in non proprietary, text-based format - e.g. text csv files.
-=======
-- Deposited on stable server, e.g datadryad, figshare, ecological archives, so that it remains available and is citable.
-- Is released under a standard and flexible license agreement.
-- Has good metadata.
-- Is stored in non proprietary, text-based format - e.g. text csv files.
-- Is machine readable.
->>>>>>> edits
 
 The following resources provide more information on best practices for data management, reuse and sharing:
 
@@ -156,11 +149,7 @@ The following resources provide more information on best practices for data mana
 
 In his TED talk, Michael Nielson asks "What are you doing to promote openness within your field?".
 
-<<<<<<< HEAD
-For my part, I have provided a number of open source resources. This includes trait data (e.g. [Falster et al 2003](http://dx.doi.org/10.1046/j.1469-8137.2003.00765.x), [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages like [smatr](http://bio.mq.edu.au/research/groups/ecology//SMATR/), which is now used in 100's of publications. I am also currently collating a large biomass and allometry dataset that will be  made open access in the form of a data paper, where all data contributors are included as co-authors. Once published, anyone will be able to use this data in whatever way they like.
-=======
 For my part, I have provided a number of open source resources. This includes trait data (e.g. [Falster et al 2003](http://dx.doi.org/10.1046/j.1469-8137.2003.00765.x), [Falster et al 2005](http://doi.org/10.1111/j.0030-1299.2005.13383.x), [Falster et al 2005]( http://doi.org/10.1111/j.0022-0477.2005.00992.x)) and software packages like [smatr](http://bio.mq.edu.au/research/groups/ecology//SMATR/), which is now used in 100's of publications. I am also currently collating a large biomass and allometry dataset that will be  made open access in the form of a data paper, where all data contributors are included as co-authors. Once published, anyone will be able to use this data in whatever way they like.
->>>>>>> edits
 
 Here are some suggestions you might consider either within or outside the TRY framework:
 
